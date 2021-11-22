@@ -1,0 +1,25 @@
+# Hello everyone Welcone to python programming
+# Topic: variable,typecasting & user input
+#variable
+var1= 12                        #intiger function
+value = 12.2                     #float fungtion
+print(value+var1)
+print (type(value))   # type give the data type
+var1="12"                       #String fungtion
+var2="22"                       #String fungtion
+print(var1+ var2)
+#when we print the two string fungtion we get two saprate value but we want to
+# it covert to int & other data type so that we want to do typecasting
+print (int (var1)+int (var2))
+
+# user input
+# when we want user input then this input save as a " String fungtion "
+print("entre the number")
+num1= input()
+print("entre the number")
+num1= input()
+print(" the number is",int (num1)+int (num1))
+
+
+
+
