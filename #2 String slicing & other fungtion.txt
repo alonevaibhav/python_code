@@ -1,0 +1,29 @@
+# topic: String slicing & other fungtion
+mystr="Vaibhav Alone"
+     # 0123456789012      positive number
+    #- 3210987654321      negative number
+print(len(mystr))
+print (mystr)
+print(mystr[1:5])
+print(mystr[0:5555])
+print(mystr[0:7:2]) ;    """in this third iteration(2) represent the skip number it means that firstly exicute the first 
+                            two iteration then lastly skip the  character by 2 or so on"""
+print(mystr[: :-1])
+
+# Other fungtion
+print("\n")
+name="King Of Mirzapur"
+print (type(name))
+print(name.isalnum())
+print(name.isalpha())
+print(name.upper())
+print(name.lower())
+print(name.endswith("king"))
+print(name.count("x"))
+print(name.capitalize())
+print(name.find("a"))
+print(name.replace("K","x"))
+
+# there are having many other fungtion
+
+
