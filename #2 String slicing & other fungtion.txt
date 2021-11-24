@@ -1,7 +1,7 @@
 # topic: String slicing & other fungtion
 mystr="Vaibhav Alone"
-     # 0123456789012      positive number
-    #- 3210987654321      negative number
+     # 0123456789012      positive number   positive number start from 0
+    #- 3210987654321      negative number   negative number start from 1
 print(len(mystr))
 print (mystr)
 print(mystr[1:5])
