@@ -28,12 +28,12 @@ number.pop()
 print(number)
 
 print("\t")
-# Unmutable Fungtion known as  tapal
+# Unmutable Fungtion known as  taple
 
 taap=(133,32,85,55)
 print(taap)
 print(taap.count(32))
-##  taap.appe    due to tapal is unmutable so that this fungtion can't be work
+##  taap.appe    due to taple is unmutable so that this fungtion can't be work
 ##  taap.po
 ##  taap[1]=12;
 
